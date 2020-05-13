@@ -1,0 +1,95 @@
+.skills {
+    text-align: right;
+    padding: 10px;
+    font-size: 16px;
+    color: antiquewhite;
+}
+.skill-container {
+    width: 100%;
+    background-color: #333333;
+}
+.gpa {width: 93.25%; background-color: #215AEB;}
+.kas {width: 92%; background-color: #F31339;}
+.sgpa {width: 92.8%; background-color: #142903;}
+.checked {
+	color: #CD1076;
+}
+
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+  position:absolute;
+  right: 0;
+  bottom: 0;
+}
+
+.rating {width: 98%; background-color: forestgreen;}
+.sesh {width: 100%; background-color: darkslateblue;}
+.oppo {width: 35.5%; background-color: darkmagenta;}
+.spd {width: 99%; background-color: coral;}
+
+.cpp {width: 90%; background-color: #004589;}
+.python {width: 90%; background-color: #F1A907;}
+.c{width: 60%; background-color: darkblue;}
+.cS{width: 80%; background-color: #202087;}
+.html {width: 70%; background-color: orangered;}
+.css {width: 70%; background-color: cornflowerblue;}
+.js {width: 65%; background-color: #E78C00;}
+.lua {width: 70%; background-color: #1DACD6;}
+.unix {width: 60%; background-color: darkgreen;}
+.bash {width: 50%; background-color: darkmagenta;}
+.php {width: 60%; background-color: deeppink;}
+.react {width: 50%; background-color: darkcyan; }
+.lisp {width: 40%; background-color: darkred;}
+
+.lc-progress {width: 60%; background-color: #000787; }
+.lc-difficulty {width: 75%; background-color: #950714; }
+.lc-hours {width: 35%; background-color: #008000; }
+.lc-priority {width: 60%; background-color: #D4720E; }
+
+.ios-progress {width: 35%; background-color: #000787; }
+.ios-difficulty {width: 65%; background-color: #950714; }
+.ios-hours {width: 30%; background-color: #008000; }
+.ios-priority {width: 80%; background-color: #D4720E; }
+
+.gm2-progress {width: 20%; background-color: #000787; }
+.gm2-difficulty {width: 90%; background-color: #950714; }
+.gm2-hours {width: 100%; background-color: #008000; }
+.gm2-priority {width: 100%; background-color: #D4720E; }
+
+.bst-progress {width: 100%; background-color: #000787; }
+.bst-difficulty {width: 60%; background-color: #950714; }
+.bst-hours {width: 36%; background-color: #008000; }
+
+.eos-progress {width: 100%; background-color: #000787; }
+.eos-difficulty {width: 70%; background-color: #950714; }
+.eos-hours {width: 30%; background-color: #008000; }
+
+.rr-progress {width: 100%; background-color: #000787; }
+.rr-difficulty {width: 65%; background-color: #950714; }
+.rr-hours {width: 85%; background-color: #008000; }
+
+.hfc-progress {width: 100%; background-color: #000787; }
+.hfc-difficulty {width: 50%; background-color: #950714; }
+.hfc-hours {width: 65%; background-color: #008000; }
+
+.hta-progress {width: 100%; background-color: #000787; }
+.hta-difficulty {width: 35%; background-color: #950714; }
+.hta-hours {width: 23%; background-color: #008000; }
+
+.tor-progress {width: 55%; background-color: #000787; }
+.tor-difficulty {width: 55%; background-color: #950714; }
+.tor-hours {width: 73%; background-color: #008000; }
+.tor-priority {width: 40%; background-color: #D4720E; }
+
+.bcp-progress {width: 50%; background-color: #000787; }
+.bcp-difficulty {width: 60%; background-color: #950714; }
+.bcp-hours {width: 78%; background-color: #008000; }
+.bcp-priority {width: 25%; background-color: #D4720E; }
+
+.cam-progress {width: 100%; background-color: #000787; }
+.cam-difficulty {width: 40%; background-color: #950714; }
+.cam-hours {width: 40%; background-color: #008000; }
+
+.space {
+	margin-bottom: 25%;
+}
