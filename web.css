@@ -30,6 +30,15 @@ html {
     animation-duration: 5s;
 }
 
+.newwebsite{
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    padding: 30px 30px 30px 30px;
+    margin-left: 18rem;
+}
+
+
 .slideShow img,
 .slideShow2 img {
     -o-object-fit: cover;
