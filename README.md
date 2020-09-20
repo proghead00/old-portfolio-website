@@ -1,2 +1,2 @@
 # My first portfolio website.
-##  [My New Portfolio](htps://susnatagoswami.netlify.app)
+## 👽 [My New Portfolio](https://susnatagoswami.netlify.app/) 👽
